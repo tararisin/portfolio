@@ -1,0 +1,92 @@
+html {
+    scroll-behavior: smooth;
+  }
+  * {
+    color: white !important;
+  }
+  
+  /* https://dl.dropboxusercontent.com/s/  */
+
+  .nav_style {
+    text-decoration: none;
+  }
+  
+  .jumbotron {
+    margin: 0;
+  }
+  .jumbo_text {
+    height: 700px;
+  }
+  
+  #parallax {
+    background-image: url(https://dl.dropboxusercontent.com/s/rlkpil9u8oywp7r/sunset4.jpg?dl=0;);
+  }
+  #parallax_1 {
+    background-image: url(https://dl.dropboxusercontent.com/s/ts14mrmp17wguy2/ttdrum%20OG.png?dl=0);
+  }
+  #parallax_2 {
+    background-image: url(https://dl.dropboxusercontent.com/s/sflecuhx7k6tbqs/art1.jpg?dl=0);
+  }
+  #parallax_3 {
+    background-image: url(https://dl.dropboxusercontent.com/s/dmjy49ktummyt4e/WomensOpen-BitchPlease.jpg?dl=0);
+  }
+
+  #parallax_4 {
+    background-image: url(../img/mountains.jfif);
+  }
+  #parallax_5 {
+    background-image: url(../img/dark.jfif);
+  } 
+  
+
+
+  .parallax_effect {
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+  .parallax_wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 800px;
+    height: 360px;
+    border-radius: 5px;
+  }
+  .parallax_box {
+    height: 700px;
+  }
+  
+  .footer_style {
+    height: 400px;
+    background-color: rgb(230, 57, 207);
+    margin: 0;
+  }
+  .circle_icon {
+    background: rgb(56, 52, 52);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+    vertical-align: middle;
+  }
+  
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  .chevron_circle {
+    background: rgba(0, 0, 0, 0.5);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+    vertical-align: middle;
+  }
